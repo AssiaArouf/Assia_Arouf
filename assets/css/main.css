@@ -1925,8 +1925,9 @@ input, select, textarea {
 			background: #222729 url("images/overlay.png");
 		}
 
+		<!-- Assia : Gris foncé est #444 je le remplace par ce bleu foncé #05014a ou celui la #020079  ou celui #0006b1-->
 		table thead {
-			background: #444;
+			background: #020079;
 			color: #fff;
 		}
 

@@ -121,8 +121,9 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
+		<!-- Assia : Gris foncé est #333 je le remplace par ce bleu foncé #05014a ou celui la #020079  ou celui #0006b1-->
 		h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-			color: #333;
+			color: #020079;
 		}
 
 	h2 {

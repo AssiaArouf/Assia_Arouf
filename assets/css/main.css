@@ -1922,11 +1922,9 @@ input, select, textarea {
 			text-align: left;
 			padding: 0.5em 1em 0.5em 1em;
 			color: #fff;
-			<!-- Assia : Gris foncé est #222729 je le remplace par ce bleu foncé #05014a ou celui la #020079  ou celui #0006b1-->
 			background: #020079 url("images/overlay.png");
 		}
 
-		<!-- Assia : Gris foncé est #444 je le remplace par ce bleu foncé #05014a ou celui la #020079  ou celui #0006b1-->
 		table thead {
 			background: #020079;
 			color: #fff;
@@ -2047,7 +2045,6 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		<!-- Assia : Gris foncé est ##222629 je le remplace par ce bleu foncé #05014a ou celui la #020079  ou celui #0006b1-->
 		background: #020079 url("images/overlay.png");
 		<!-background: #222629 url("images/overlay.png");>
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);

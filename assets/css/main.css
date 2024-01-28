@@ -1922,7 +1922,8 @@ input, select, textarea {
 			text-align: left;
 			padding: 0.5em 1em 0.5em 1em;
 			color: #fff;
-			background: #222729 url("images/overlay.png");
+			<!-- Assia : Gris foncé est #222729 je le remplace par ce bleu foncé #05014a ou celui la #020079  ou celui #0006b1-->
+			background: #020079 url("images/overlay.png");
 		}
 
 		<!-- Assia : Gris foncé est #444 je le remplace par ce bleu foncé #05014a ou celui la #020079  ou celui #0006b1-->
